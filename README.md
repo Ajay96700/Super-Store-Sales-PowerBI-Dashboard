@@ -2,7 +2,7 @@
 
 ![](https://github.com/Ajay96700/Super-Store-Sales-PowerBI-Dashboard/blob/main/Super-store%20Sales%20Dashboard.png)
 
-## This Power BI dashboard around a common retail challenge:
+## This Power BI dashboard built around a common retail challenge:
  - How can a business better manage sales, profit, and inventory to improve decision making?
 
 ## What I included:
